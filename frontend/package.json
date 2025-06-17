@@ -10,10 +10,15 @@
   },
   "dependencies": {
     "@hookform/resolvers": "^5.1.1",
+    "@mui/x-charts": "^8.5.2",
     "next": "^15.3.3",
     "react": "^19.0.0",
     "react-dom": "^19.0.0",
+    "react-gauge-component": "^1.2.64",
+    "react-google-charts": "^5.2.1",
     "react-hook-form": "^7.57.0",
+    "react-minimal-pie-chart": "^9.1.0",
+    "recharts": "^2.15.3",
     "zod": "^3.25.61"
   },
   "devDependencies": {
